@@ -2,16 +2,16 @@
   "engagement": {
     "api": {
       "customer": {
-        siteNameNoWait: {
+        "siteNameNoWait": {
           "v1": {
             "getEngagementQueue": {
-              "queueId": 0,
-              "availableAgentSessions": 0,
-              "totalAgents": 0,
-              "availableAgents": 0,
-              "clientRequestTime": "string",
-              "serviceStartTime": "string",
-              "serviceFinishTime": "string"
+              "queueId": 10,
+              "availableAgentSessions": 3,
+              "totalAgents": 1,
+              "availableAgents": 1,
+              "clientRequestTime": "0",
+              "serviceStartTime": "1827262",
+              "serviceFinishTime": "1927262"
             }
           }
         }
