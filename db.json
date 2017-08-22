@@ -1,21 +1,11 @@
 {
-  "engagement": {
-    "api": {
-      "customer": {
-        "siteNameNoWait": {
-          "v1": {
-            "getEngagementQueue": {
-              "queueId": 10,
-              "availableAgentSessions": 3,
-              "totalAgents": 1,
-              "availableAgents": 1,
-              "clientRequestTime": "0",
-              "serviceStartTime": "1827262",
-              "serviceFinishTime": "1927262"
-            }
-          }
-        }
-      }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
